@@ -50,5 +50,3 @@ The dashboard includes:
 
   <img width="1366" height="768" alt="Powerbi_dashboard" src="https://github.com/user-attachments/assets/b66bd257-ab66-4a3b-b0e9-a6573e144d3b" />
 
-## Author
-Mosammat Tanjina Akhter Priya
