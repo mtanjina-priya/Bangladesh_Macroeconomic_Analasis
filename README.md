@@ -1,8 +1,8 @@
 # Bangladesh_Macroeconomic_Analysis
-## 📌 Project Overview
+## Project Overview
 This project analyzes Bangladesh's macroeconomic indicators using Microsoft Excel and Power BI. The analysis focuses on unemployment, inflation, and GDP growth to identify trends and relationships over time.
 
-## 🎯 Objectives
+## Objectives
 - Analyze unemployment, inflation, and GDP growth.
 - Clean and prepare the dataset.
 - Perform descriptive statistical analysis.
@@ -20,13 +20,13 @@ This project analyzes Bangladesh's macroeconomic indicators using Microsoft Exce
   - Inflation
   - GDP Growth
 
-## 🧹 Data Cleaning
+## Data Cleaning
 - Checked missing values
 - Checked duplicate records
 - Verified data types
 - Prepared a cleaned dataset for analysis
 
-## 📈 Excel Analysis
+## Excel Analysis
 - Descriptive Statistics
 - IQR Outlier Analysis
 - Correlation Matrix
